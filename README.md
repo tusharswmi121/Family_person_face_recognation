@@ -64,3 +64,7 @@ c) Flask + face_recognition compares with all faces in backend/x/:<br/>
 d) Extracts encodings (128-D vectors) and computes distance to each known face.<br/>
 e) Picks best match and returns name + confidence.<br/>
 f) Spring Boot relays the result to the React UI (and optionally saves it).<br/>
+
+# $$ Website $$
+
+<img width="1064" height="524" alt="Screenshot 2025-10-24 at 11 02 04 PM" src="https://github.com/user-attachments/assets/c1bc8cf3-3a2e-4bd3-a7a0-ea1f1381b7e0" />
